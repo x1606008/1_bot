@@ -1,1 +1,3 @@
 aiogram
+pyTelegramBotAPI
+yt-dlp
